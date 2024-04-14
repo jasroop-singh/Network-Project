@@ -7,7 +7,6 @@ import smtplib
 import tkinter as tk
 from tkinter import messagebox
 
-# audm niwd gsyr hbwz
 # method to enable the widgets
 def enable(state):
     recipientEmailInput.config(state = state)
